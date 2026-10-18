@@ -1,9 +1,6 @@
 # 🏎️ Java Racing Game
 
 An interactive 2D racing game developed using **Java Swing and AWT**, featuring real-time gameplay, collision detection, randomized obstacles, and progressive difficulty.
-## Gameplay Preview
-
-![Java Racing Game Screenshot](images/gamplay.png)
 
 ## Project Overview
 
@@ -90,3 +87,6 @@ Players control a car while avoiding oncoming vehicles. As the player successful
 ## Developer
 
 Developed as a personal Java programming project to gain hands-on experience with software development and interactive applications.
+
+## Gameplay Preview
+![Java Racing Game Screenshot](images/gamplay.png)
